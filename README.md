@@ -181,11 +181,13 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
-<img width="683" height="366" alt="image" src="https://github.com/user-attachments/assets/72915b9f-441b-400c-877e-0f91c7ba522b" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/9ba6fed1-d50f-4a48-8026-93a57d0074ee" />
 
-<img width="685" height="367" alt="image" src="https://github.com/user-attachments/assets/ba179097-bab4-4858-b83d-778e3a2fd12a" />
 
-<img width="676" height="397" alt="image" src="https://github.com/user-attachments/assets/591483d3-b9ca-4b15-85b0-0e409ec33fa2" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/f9e05d21-7cc7-4e6e-948a-606c657da851" />
+
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/de202289-05d8-4093-9d12-511a718425b8" />
 
 ### Result:
 Thus the python code for Implementing GSP Algorithm was executed successfully.
